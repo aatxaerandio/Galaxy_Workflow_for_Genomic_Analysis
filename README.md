@@ -7,5 +7,6 @@ Galaxy Workflow to perform an automated and complete characterization of bacteri
 
 # After your analysis
 Check your history to see if your analysis went well. It will go through different statuses before is completed. 
-|Yellow | Spinner | Items are running |   |
+|Yellow | Spinner | Items are running |![imagen](https://user-images.githubusercontent.com/75436856/200934268-ee50764b-51ea-45c0-8be5-4a82650b85ad.png)
+|
 
