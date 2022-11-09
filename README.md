@@ -10,3 +10,6 @@ Check your history to see if your analysis went well. It will go through differe
 |Yellow | Spinner | Items are running |![imagen](https://user-images.githubusercontent.com/75436856/200934268-ee50764b-51ea-45c0-8be5-4a82650b85ad.png)
 |
 
+is completed. 
+|Yellow | Spinner | Items are running | ![imagen](https://user-images.githubusercontent.com/75436856/200934576-7fa0bcc1-c430-466d-8756-f28db2b65fe6.png)
+
