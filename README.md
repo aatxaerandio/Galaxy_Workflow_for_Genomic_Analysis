@@ -5,11 +5,6 @@
 Galaxy Workflow to perform an automated and complete characterization of bacterial genomes
 
 
-# After your analysis
-Check your history to see if your analysis went well. It will go through different statuses before is completed. 
-|Yellow | Spinner | Items are running |![imagen](https://user-images.githubusercontent.com/75436856/200934268-ee50764b-51ea-45c0-8be5-4a82650b85ad.png)
-|
-
-is completed. 
-|Yellow | Spinner | Items are running | ![imagen](https://user-images.githubusercontent.com/75436856/200934576-7fa0bcc1-c430-466d-8756-f28db2b65fe6.png)
-
+| Extension | Description |
+| --------- | ----------- |
+| .gff | This is the master annotation in GFF3 format, containing both sequences and annotations. It can be viewed directly in Artemis or IGV. |
