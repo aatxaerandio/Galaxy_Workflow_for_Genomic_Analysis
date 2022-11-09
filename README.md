@@ -6,3 +6,4 @@ Galaxy Workflow to perform an automated and complete characterization of bacteri
 
 :warning:
 :warning:
+U+0270E
