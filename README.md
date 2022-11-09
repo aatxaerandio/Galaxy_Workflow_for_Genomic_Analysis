@@ -4,6 +4,8 @@
 # Galaxy Workflow for Genomic Analysis
 Galaxy Workflow to perform an automated and complete characterization of bacterial genomes
 
-:warning:
-:warning:
-:U+0270E:
+
+# After your analysis
+Check your history to see if your analysis went well. It will go through different statuses before is completed. 
+|Yellow | Spinner | Items are running |   |
+
