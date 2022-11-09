@@ -7,10 +7,6 @@ Galaxy Workflow to perform an automated and complete characterization of bacteri
 # After your analysis
 Check your history to see if your analysis went well. It will go through different statuses before is completed. 
 
- 
 | Colour | Icon | Meaning | Status |
-| Grey | Clock | Job is running | Status |
-| Yellow | Spinner | Dataset element is waiting to start | Status |
-| Green | None | Job is finished | Status |
-| Red | Cross | Job has failed | Status |
-
+| Colour | Icon | Meaning | Status |
+| Colour | Icon | Meaning | Status |
