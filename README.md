@@ -4,7 +4,6 @@
 # Galaxy Workflow for Genomic Analysis
 Galaxy Workflow to perform an automated and complete characterization of bacterial genomes
 
-
-| Extension | Description |
-| --------- | ----------- |
-| .gff | This is the master annotation in GFF3 format, containing both sequences and annotations. It can be viewed directly in Artemis or IGV. |
+# After your analysis
+Check your history to see if your analysis went well. It will go through different statuses before is completed. 
+| Yellow | Spinner | Items are running |  |
