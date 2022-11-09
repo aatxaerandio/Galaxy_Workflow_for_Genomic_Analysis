@@ -9,7 +9,7 @@ Check your history to see if your analysis went well. It will go through differe
 
 | Colour | Icon | Meaning | Status |
 | --------- | ----------- |  ----------- |  ----------- |
-| Grey | Clock | Job is running | Status |
+| Grey | Clock | Job is running | ![imagen](https://user-images.githubusercontent.com/75436856/200941619-1433601a-a772-43e3-920b-a3a42ecca911.png) |
 | Yellow | Spinner | Dataset element is waiting to start | Status |
 | Green | None | Job is finished | Status |
 | Red | Cross | Job has failed | Status |
