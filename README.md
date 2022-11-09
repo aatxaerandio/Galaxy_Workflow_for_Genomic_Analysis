@@ -10,8 +10,8 @@ Check your history to see if your analysis went well. It will go through differe
  
 | Extension | Description | Description |
 | --------- | ----------- | ----------- |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
+| Color | Icon | Meaning | Status |
+| Grey | Icon | Meaning | Status |
+| Yellow | Icon | Meaning | Status |
+| Green | Icon | Meaning | Status |
+| Red | Icon | Meaning | Status |
