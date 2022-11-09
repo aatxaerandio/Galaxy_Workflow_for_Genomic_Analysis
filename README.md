@@ -8,7 +8,7 @@ Galaxy Workflow to perform an automated and complete characterization of bacteri
 Check your history to see if your analysis went well. It will go through different statuses before is completed. 
 
  
-| Extension | Description |
+| Extension | Description | Description |
 | --------- | ----------- |
 | Color | Icon | Meaning |
 | Color | Icon | Meaning |
