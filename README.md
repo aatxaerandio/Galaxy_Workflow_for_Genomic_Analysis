@@ -6,9 +6,18 @@ Galaxy Workflow to perform an automated and complete characterization of bacteri
 
 # After your analysis
 Check your history to see if your analysis went well. It will go through different statuses before is completed. 
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
-| Color | Icon | Meaning |
+
  
+| Extension | Description |
+| --------- | ----------- |
+| Color | Icon | Meaning |
+| Color | Icon | Meaning |
+| Color | Icon | Meaning |
+| Color | Icon | Meaning |
+| Color | Icon | Meaning |
+| .gff | This is the master annotation in GFF3 format, containing both sequences and annotations. It can be viewed directly in Artemis or IGV. |
+| .gbk | This is a standard Genbank file derived from the master .gff. If the input to prokka was a multi-FASTA, then this will be a multi-Genbank, with one record for each sequence. |
+| .fna | Nucleotide FASTA file of the input contig sequences. |
+| .faa | Protein FASTA file of the translated CDS sequences. |
+| .ffn | Nucleotide FASTA file of all the prediction transcripts (CDS, rRNA, tRNA, tmRNA, misc_RNA) |
+| .sqn | An ASN1 format "Sequin" file for submission to Genbank. It needs to be edited to set the correct taxonomy, authors, related publication etc. |
