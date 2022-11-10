@@ -18,11 +18,14 @@ To run this practical workflow for bacterial WGS data you will need:
 ## Tutorial
 # Prior to your analysis
 <img align="right" src="https://user-images.githubusercontent.com/75436856/201067360-4e49565c-2714-4ded-8cd1-381cdcb2b111.png">
-In your selected browser, go to the [European Galaxy server](https://usegalaxy.eu/) and log in or register. 
+In your selected browser, go to the [European Galaxy server](https://usegalaxy.eu/). and log in or register. 
 The Galaxy web interface is composed by three main parts; i) A wide variety of tools available to perform your desired analysis, ii) a central panel that shows the home page where you will be able customize your parameters and see dataset contents, and iii) the analysis history on the right containing the analysis performed on your dataset. 
 Before analysing your WGS data: (1) workflow must be downloaded from xxxxxx and imported to your Galaxy account; (2) Data must be uploaded. 
+
 1. Move to Workflows on the top menú bar of Galaxy and click on the upload icon Galaxy-upload at the topright of the screen. Upload the workflow file in the box labelled “Archived Workflow File” and click the Import workflow button.
+
 2. After importing the workflow, data to be analysed must be provided. By default, a the “unnamed history” is available. History and dataset´s name can be modified to your wills. Name your histories or/and datasets to be meaningful and easy to find by clickin on the :pencil2: icon. Do not forget of saving your edit. Clik on the “Upload data” button located on the left side of the browser. There are several wyas to upload your data to Galaxy. We recommend to upload your data in “Regular” by dropping the files in the central panel or clickin on “choose local files” and selecting the desired files. Click on “Start” and files will be uploaded sequentially. Once uploaded, they will appear on your hisory, on the right side of the browser. On your history, click on :heavy_check_mark: icon to select ítems and clik on the selected bar. Many options will be displayed. 
+
 If your history is composed by contig files, you can click on “Build Dataset List” to create a dataset containing all the selected ítems. On the contrary, if your history is composed by pair end reads, you can select them and click on “Build List of Dataset Pairs”, to make pairs of forward and reverse reads and group pairs on a dataset. By building list we ensure that all the elements are analysed once the workfflow is executed. 
 
 
