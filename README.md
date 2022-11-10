@@ -1,5 +1,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+To use these workflows in Galaxy you can either click the links to download the workflows, or you can right-click and copy the link to the workflow which can be used in the Galaxy form to import workflows.
+Introduction to Galaxy
+This practical aims to familiarize you with the Galaxy user interface. It will teach you how to perform basic tasks such as importing data, running tools, working with histories, creating workflows, and sharing your work.
+
 # Galaxy Workflow for bacterial genomes 
 ## Introduction
 This practical aims to It will guide you to perform tasks such as importing data, workinf eith histories, reunning your analysis and downloading your results. This tutorial is for those who are newbies in genomics and bioindormtics, in order to ease the analysis of WGS data.
@@ -32,7 +36,7 @@ Click on Run Workflow and all jobs will be scheduled and executed.
 Check your history to see if your analysis went well. It will go through different statuses before is completed. 
 | Colour | Icon | Meaning | Status |
 | --------- | ----------- |  ----------- |  ----------- |
-| Grey | Clock | Job is running | Status |
+| Grey | Clock | Job is running | ![imagen](https://user-images.githubusercontent.com/75436856/201066857-639551de-004c-440f-90b6-c6f30dc5e5e2.png) |
 | Yellow | Spinner | Dataset element is waiting to start | Status |
 | Green | None | Job is finished | Status |
 | Red | Cross | Job has failed | Status |
