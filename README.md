@@ -3,17 +3,19 @@
 ## Introduction
 This practical aims to guide you to perform tasks such as importing data, working with histories, running your analysis and downloading your results. This tutorial is for those who are newbies in genomics and bioinformatics, in order to ease the analysis of WGS data.
 This Galaxy Workflow for WGS data aims to perform an automated and complete characterization of bacterial genomes including; genome annotation, species identification, serotype prediction, antimicrobial resistance prediction, virulence-related genes and plasmid replicon detection, core-genome-based or single nucleotide polymorphism (SNP)-based phylogenetic clustering and sequence typing. 
+
 The different steps of the workflow are presented below:
 
 <img align="center" src="https://user-images.githubusercontent.com/75436856/201201113-fe74d2a6-e81d-473e-879e-0db626c0c2d5.png">
 
-
 ## Installation
 No installation steps are required, just download the [Galaxy Workflow](https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis/blob/main/Genomic%20Analysis%20Workflow.ga) file and upload to your personal Galaxy account.
+
 ## Requirements
 To run this practical workflow for bacterial WGS data you will need:
 1. An internet-connected computer with a compatible web browser such as Firefox, Chrome or Safari.
 2. Access to a Galaxy instance. In our case, we choose the [European Galaxy server](https://usegalaxy.eu/).
+
 ## Tutorial
 ### Prior to your analysis
 
@@ -33,7 +35,7 @@ Once the workflow is uploaded and your data is “built”, it is time to launch
 Click on Workflow on the top bar and click on play :arrow_forward: icon. Here select the reference genome and the input dataset collection. If you wish, you can customize workflow´s tools parameters to your need as well as sending the results to other history.
 Click on Run Workflow and all jobs will be scheduled and executed.
 
-![Execute workflow](https://user-images.githubusercontent.com/75436856/201197647-69c00d20-3159-4061-a8c3-1729268a438a.PNG)
+<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/75436856/201197647-69c00d20-3159-4061-a8c3-1729268a438a.PNG" >
 
 
 ### After your analysis
