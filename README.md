@@ -14,11 +14,10 @@ No installation steps are required, just download the XXXXXX.ga file and upload 
 To run this practical workflow for bacterial WGS data you will need:
 1. An internet-connected computer with a compatible web browser such as Firefox, Chrome or Safari.
 2. Access to a Galaxy instance. In our case, we choose the [European Galaxy server](https://usegalaxy.eu/).
-![imagen](https://user-images.githubusercontent.com/75436856/201095565-616f5d41-522d-40ac-b194-3efae902c4b3.png)
 
 ## Tutorial
 ### Prior to your analysis
-<img align="right" src="(https://user-images.githubusercontent.com/75436856/201095413-3ff66dc0-1316-40ea-baa0-734cc9f1daf5.png)">
+<img align="right" src="(https://user-images.githubusercontent.com/75436856/201095565-616f5d41-522d-40ac-b194-3efae902c4b3.png)">
 In your selected browser, go to the https://usegalaxy.eu/ and log in or register. 
 The Galaxy web interface is composed by three main parts; i) A wide variety of tools available to perform your desired analysis, ii) a central panel that shows the home page where you will be able customize your parameters and see dataset contents, and iii) the analysis history on the right containing the analysis performed on your dataset.
 
