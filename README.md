@@ -24,7 +24,7 @@ Before analysing your WGS data: (1) workflow must be downloaded from xxxxxx and 
 2. After importing the workflow, data to be analysed must be provided. By default, a the “unnamed history” is available. History and dataset´s name can be modified to your wills. Name your histories or/and datasets to be meaningful and easy to find by clickin on the :pencil2: icon. Do not forget of saving your edit. Clik on the “Upload data” button located on the left side of the browser. There are several wyas to upload your data to Galaxy. We recommend to upload your data in “Regular” by dropping the files in the central panel or clickin on “choose local files” and selecting the desired files. Click on “Start” and files will be uploaded sequentially. Once uploaded, they will appear on your hisory, on the right side of the browser. On your history, click on :heavy_check_mark: icon to select ítems and clik on the selected bar. Many options will be displayed. 
 If your history is composed by contig files, you can click on “Build Dataset List” to create a dataset containing all the selected ítems. On the contrary, if your history is composed by pair end reads, you can select them and click on “Build List of Dataset Pairs”, to make pairs of forward and reverse reads and group pairs on a dataset. By building list we ensure that all the elements are analysed once the workfflow is executed. 
 
- ![imagen](https://user-images.githubusercontent.com/75436856/201067360-4e49565c-2714-4ded-8cd1-381cdcb2b111.png)
+<img align="right" src="https://user-images.githubusercontent.com/75436856/201067360-4e49565c-2714-4ded-8cd1-381cdcb2b111.png">
 
 # Launch your analysis
 Once the workflow is uploaded and your data is “built”, it is time to launch the analysis. 
