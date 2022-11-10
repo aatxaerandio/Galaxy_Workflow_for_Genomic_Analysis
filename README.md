@@ -36,7 +36,7 @@ Click on Run Workflow and all jobs will be scheduled and executed.
 Check your history to see if your analysis went well. It will go through different statuses before is completed. 
 | Colour | Icon | Meaning | Status |
 | --------- | ----------- |  ----------- |  ----------- |
-| Grey | Clock | Job is running | ![imagen](https://user-images.githubusercontent.com/75436856/201066857-639551de-004c-440f-90b6-c6f30dc5e5e2.png) |
+| Grey | Clock | Job is running | ![imagen](https://user-images.githubusercontent.com/75436856/201066965-c7e31267-1337-4767-a522-37b3ca6a1698.png) |
 | Yellow | Spinner | Dataset element is waiting to start | Status |
 | Green | None | Job is finished | Status |
 | Red | Cross | Job has failed | Status |
