@@ -4,9 +4,9 @@
 This practical aims to guide you to perform tasks such as importing data, working with histories, running your analysis and downloading your results. This tutorial is for those who are newbies in genomics and bioinformatics, in order to ease the analysis of WGS data.
 This Galaxy Workflow for WGS data aims to perform an automated and complete characterization of bacterial genomes including; genome annotation, species identification, serotype prediction, antimicrobial resistance prediction, virulence-related genes and plasmid replicon detection, core-genome-based or single nucleotide polymorphism (SNP)-based phylogenetic clustering and sequence typing. 
 The different steps of the workflow are presented below:
-<p align="center">
-<img width="504" alt="imagen_II" src="https://user-images.githubusercontent.com/75436856/201197444-81ef6dbf-e979-43c5-8a8a-64a663819265.PNG">
-</p>
+
+<img align="center" src="https://user-images.githubusercontent.com/75436856/201197444-81ef6dbf-e979-43c5-8a8a-64a663819265.PNG">
+
 
 ## Installation
 No installation steps are required, just download the [Galaxy Workflow](https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis/blob/main/Genomic%20Analysis%20Workflow.ga) file and upload to your personal Galaxy account.
