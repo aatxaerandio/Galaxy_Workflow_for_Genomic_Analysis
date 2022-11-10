@@ -20,6 +20,7 @@ To run this practical workflow for bacterial WGS data you will need:
 <img align="right" src="https://user-images.githubusercontent.com/75436856/201067360-4e49565c-2714-4ded-8cd1-381cdcb2b111.png">
 In your selected browser, go to the https://usegalaxy.eu/ and log in or register. 
 The Galaxy web interface is composed by three main parts; i) A wide variety of tools available to perform your desired analysis, ii) a central panel that shows the home page where you will be able customize your parameters and see dataset contents, and iii) the analysis history on the right containing the analysis performed on your dataset.
+
 Before analysing your WGS data: (1) workflow must be downloaded from xxxxxx and imported to your Galaxy account; (2) Data must be uploaded. 
 
 1. Move to Workflows on the top menu bar of Galaxy and click on the upload icon Galaxy-upload at the top right of the screen. Upload the workflow file in the box labelled “Archived Workflow File” and click the Import workflow button.
