@@ -35,7 +35,7 @@ Once the workflow is uploaded and your data is “built”, it is time to launch
 Click on Workflow on the top bar and click on play :arrow_forward: icon. Here select the reference genome and the input dataset collection. If you wish, you can customize workflow´s tools parameters to your need as well as sending the results to other history.
 Click on Run Workflow and all jobs will be scheduled and executed.
 
-<img align="center" width="750" height="524" src="https://user-images.githubusercontent.com/75436856/201197647-69c00d20-3159-4061-a8c3-1729268a438a.PNG" >
+<img align="center" width="750" height="524" src="https://user-images.githubusercontent.com/75436856/201197647-69c00d20-3159-4061-a8c3-1729268a438a.PNG">
 
 
 ### After your analysis
