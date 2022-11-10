@@ -5,7 +5,7 @@ This practical aims to guide you to perform tasks such as importing data, workin
 This Galaxy Workflow for WGS data aims to perform an automated and complete characterization of bacterial genomes including; genome annotation, species identification, serotype prediction, antimicrobial resistance prediction, virulence-related genes and plasmid replicon detection, core-genome-based or single nucleotide polymorphism (SNP)-based phylogenetic clustering and sequence typing. 
 The different steps of the workflow are presented below:
 
-<img align="center" src="https://user-images.githubusercontent.com/75436856/201197444-81ef6dbf-e979-43c5-8a8a-64a663819265.PNG">
+<img align="center" src="https://user-images.githubusercontent.com/75436856/201201113-fe74d2a6-e81d-473e-879e-0db626c0c2d5.png">
 
 
 ## Installation
@@ -63,4 +63,3 @@ By running this workflow, several output files will be created. Here we highligh
 * SNP distance matrix
 ## Troubleshooting
 Submit problems or requests to the [Issue Tracker](https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis/issues) or check [Galaxy Help pages](https://help.galaxyproject.org/).
-
