@@ -48,7 +48,7 @@ Check your history to see if your analysis went well. It will go through differe
 | Green | None | Job is finished | ![imagen](https://user-images.githubusercontent.com/75436856/201067180-a2a998ff-c033-4b1a-bd03-94ab085cf99b.png) |
 | Red | Cross | Job has failed | ![imagen](https://user-images.githubusercontent.com/75436856/201067155-6eba1b29-4871-410e-b630-da7408248df9.png) |
 
-Once the dataset is green, click and it will expand the dataset to see a preview containing general information about it. For further information, click on the Galaxy-eye (OJO) icon and dataset information will be displayed in the central panel. Info regarding tool parameters can be checked clicking on :information_source:.
+Once the dataset is green, click and it will expand the dataset to see a preview containing general information about it. For further information, click on the Galaxy-eye icon and dataset information will be displayed in the central panel. Info regarding tool parameters can be checked clicking on :information_source:.
 In case the job has failed, you can rerun the job by clicking on :leftwards_arrow_with_hook: icon. Check carefully each tool´s required inputs and formats to avoid unwelcomed failed Jobs. 
 For downloading the results, click on the :floppy_disk: icon available when dataset information is displayed in your history.
 ## Output Files
