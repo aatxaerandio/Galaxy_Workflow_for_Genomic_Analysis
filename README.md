@@ -16,7 +16,8 @@ To run this practical workflow for bacterial WGS data you will need:
 2. Access to a Galaxy instance. In our case, we choose the [European Galaxy server](https://usegalaxy.eu/).
 ## Tutorial
 ### Prior to your analysis
-<img align="right" src="![imagen](https://user-images.githubusercontent.com/75436856/201197786-5f6a9d84-9c8c-4c92-b3f2-a41e48e06507.png)">
+<img align="right" src="[!](https://user-images.githubusercontent.com/75436856/201198434-0c0223a9-cd69-432a-bd5d-dc637693c733.png)">
+
 In your selected browser, go to the https://usegalaxy.eu/ and log in or register. 
 The Galaxy web interface is composed by three main parts; i) A wide variety of tools available to perform your desired analysis, ii) a central panel that shows the home page where you will be able customize your parameters and see dataset contents, and iii) the analysis history on the right containing the analysis performed on your dataset. 
 Before analysing your WGS data: (1) workflow must be [downloaded](https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis/blob/main/Genomic%20Analysis%20Workflow.ga) and imported to your Galaxy account; (2) Data must be uploaded. 
