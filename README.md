@@ -21,26 +21,27 @@ To run this practical workflow for bacterial WGS data you will need:
 
 <img align="right" src="https://user-images.githubusercontent.com/75436856/201199153-101c9334-fa40-4d38-9b49-175aa67f92f9.png">
 
-In your selected browser, go to the https://usegalaxy.eu/ and log in or register. 
+In your selected browser, go to https://usegalaxy.eu/ and log in or register. 
 The Galaxy web interface is composed by three main parts; i) A wide variety of tools available to perform your desired analysis, ii) a central panel that shows the home page where you will be able customize your parameters and see dataset contents, and iii) the analysis history on the right containing the analysis performed on your dataset. 
+
 Before analysing your WGS data: (1) workflow must be [downloaded](https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis/blob/main/Genomic%20Analysis%20Workflow.ga) and imported to your Galaxy account; (2) Data must be uploaded. 
 
-1. Move to “Workflows" on the top menu bar of Galaxy and click on the “Import” button at the top right of the screen. Upload the workflow file in the box labelled “Archived Workflow File” and click the Import workflow button.
-2. After importing the workflow, data to be analysed must be provided. By default, a the “unnamed history” is available. History and dataset´s name can be modified to your wills. Name your histories or/and datasets to be meaningful and easy to find by clicking on the :pencil2: icon. Do not forget of saving your edit. Click on the “Upload data” button located on the left side of the browser. There are several ways to upload your data to Galaxy. We recommend uploading your data in “Regular” by dropping the files in the central panel or clicking on “choose local files” and selecting the desired files. Click on “Start” and files will be uploaded sequentially. Once uploaded, they will appear on your history, on the right side of the browser. On your history, click on :heavy_check_mark: icon to select items and click on the selected bar. Many options will be displayed. 
+1. Move to “Workflows" on the top menu bar of Galaxy and click on the “Import” button at the top right of the screen. Upload the workflow file in the box labelled “Archived Workflow File” and click the "Import" workflow button.
+2. After importing the workflow, data to be analysed must be provided. By default, “unnamed history” is available. History and dataset´s name can be modified to your wills. Name your histories or/and datasets to be meaningful and easy to find by clicking on the :pencil2: icon. Do not forget of saving your edit. Click on the “Upload data” button located on the left side of the browser. There are several ways to upload your data to Galaxy. We recommend uploading your data in “Regular” by dropping the files in the central panel or clicking on “choose local files” and selecting the desired files. Click on “Start” and files will be uploaded sequentially. Once uploaded, they will appear on your history, on the right side of the browser. On your history, click on :heavy_check_mark: icon to select items and click on the selected bar. Many options will be displayed. 
 
 If your history is composed by contig files, you can click on “Build Dataset List” to create a dataset containing all the selected items. On the contrary, if your history is composed by pair end reads, you can select them and click on “Build List of Dataset Pairs”, to make pairs of forward and reverse reads and group pairs on a dataset. By building list, we ensure that all the elements are analysed once the workflow is executed. 
 
 ### Launch your analysis
 Once the workflow is uploaded and your data is “built”, it is time to launch the analysis. 
-Click on Workflow on the top bar and click on play :arrow_forward: icon. Here select the reference genome and the input dataset collection. If you wish, you can customize workflow´s tools parameters to your need as well as sending the results to other history.
-Click on Run Workflow and all jobs will be scheduled and executed.
+Click on "Workflow" on the top bar and click on play :arrow_forward: icon. Here select the reference genome and the input dataset collection. If you wish, you can customize workflow´s tools parameters to your need as well as sending the results to other history.
+Click on "Run Workflow" and all jobs will be scheduled and executed.
 
 <p align="center">
   <img width="750" height="524" src="https://user-images.githubusercontent.com/75436856/201197647-69c00d20-3159-4061-a8c3-1729268a438a.PNG">
 </p>
 
 ### After your analysis
-Check your history to see if your analysis went well. It will go through different statuses before is completed. 
+Check your history to see whether your analysis went well. It will go through different statuses before is completed. 
 | Colour | Icon | Meaning | Status |
 | --------- | ----------- |  ----------- |  ----------- |
 | Grey | Clock | Job is running | ![imagen](https://user-images.githubusercontent.com/75436856/201066965-c7e31267-1337-4767-a522-37b3ca6a1698.png) |
